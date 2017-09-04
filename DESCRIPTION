@@ -3,8 +3,8 @@ Type: Package
 Title: Miscellaneous Functions
 Version: 0.1.0
 Author: Adam Z. Lendvai
-Maintainer: The package maintainer <az.lendvai@gmail.com>
-Description: Just some useful functions
+Maintainer: Adam Z. Lendvai <az.lendvai@gmail.com>
+Description: Just some useful functions. Not ready yet. 
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
